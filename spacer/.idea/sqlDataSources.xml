@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="8852e3eb-3712-445e-a4f9-a38a8ed08707" />
+          <option name="name" value="spacer" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/DB/spacer.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
